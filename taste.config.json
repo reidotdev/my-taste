@@ -1,0 +1,18 @@
+{
+  "owner": "Your Name",
+  "site": "https://example.com/taste",
+  "mcp": null,
+  "assetBaseUrl": null,
+  "categories": [
+    "typography",
+    "color",
+    "layout",
+    "spacing",
+    "components",
+    "forms",
+    "navigation",
+    "motion",
+    "copy",
+    "imagery"
+  ]
+}

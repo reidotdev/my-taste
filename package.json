@@ -1,0 +1,14 @@
+{
+  "name": "my-taste",
+  "version": "0.1.0",
+  "description": "A personal design taste library: Do and Don't examples with one-line rules, readable by people and AI agents.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scripts/check-entries.mjs",
+    "build": "node scripts/build-json.mjs"
+  }
+}
